@@ -1,0 +1,12 @@
+#ignore all venv files
+.venv
+.venv-andrew
+.vscode
+#ignore any weird folders
+coco/ 
+cudnn-linux-x86_64-8.9.7.29_cuda12-archive/
+Data/
+models/
+reports/
+model.weights.h5
+models.zip
